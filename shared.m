@@ -1,7 +1,8 @@
 // Shared Singleton
 // Class method that returns a singleton instance
 //
-// IDECodeSnippetCompletionScopes: [All]
+// IDECodeSnippetCompletionPrefix: share
+// IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 66CB5064-89A3-4A28-87D6-C2512BBC876B
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
