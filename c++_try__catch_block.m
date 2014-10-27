@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: try
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 6839659E-707F-4B33-BA03-5F6C1AEACDCD
+// IDECodeSnippetIdentifier: 4B2538B9-F534-454D-9011-DB721483C769
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 try {
   <#statements#>
 } catch (<#catch parameter#>) {
