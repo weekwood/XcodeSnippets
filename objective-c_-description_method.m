@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: description
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 16D98350-143B-4CC9-9EA4-57525DAD8D74
+// IDECodeSnippetIdentifier: D9BE9186-74C1-4471-9F73-41EF19F32A49
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (NSString *)description
 {
     return [NSString stringWithFormat:@"<#format string#>", <#arguments#>];
