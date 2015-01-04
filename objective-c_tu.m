@@ -1,7 +1,8 @@
 // UIControlEventTouchUpInside
-// 
 //
-// IDECodeSnippetCompletionScopes: [All]
+//
+// IDECodeSnippetCompletionPrefix: tu
+// IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 2FCF8230-4177-4611-8DB1-D04908662343
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
