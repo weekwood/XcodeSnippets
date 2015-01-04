@@ -1,6 +1,7 @@
 // gcd:_dispatch_once
 // Execute code only once, such as for initializing a singleton.
 //
+// gcd: _dispatch_once
 // IDECodeSnippetCompletionPrefix: dispatch_once snippet
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 7A8ADFA1-0AD6-44C4-B89D-9FADC85FD8B4
