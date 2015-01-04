@@ -1,6 +1,7 @@
 // UIViewController Lifecycle
 // Placeholders for all of the view controller lifecycle methods
 //
+// IDECodeSnippetCompletionPrefix: lefe
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: DECFF5EB-61D5-4ACC-B9D1-1490350E80B2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
