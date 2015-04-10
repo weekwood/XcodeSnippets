@@ -1,12 +1,9 @@
-// Objective-c tvds
-// 
-//
-// IDECodeSnippetCompletionPrefix: tvds
-// IDECodeSnippetCompletionScopes: [All]
-// IDECodeSnippetIdentifier: B777191B-E64F-4ED8-9CDF-E4E45DEA5532
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 2
+---
+title: "UITableViewDataSource"
+summary: "Placeholders for required UITableViewDataSource delegate methods"
+platform: iOS
+completion-scope: Class Implementation
+---
 
 #pragma mark - UITableViewDataSource
 
